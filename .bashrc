@@ -325,9 +325,8 @@ fi
 #==============================================================================
 # ALIASES FOR QUICK EDITING
 #==============================================================================
-alias bashrc='vim ~/.bashrc && source ~/.bashrc'
-alias vimrc='vim ~/.vimrc'
-alias hosts='sudo vim /etc/hosts'
+alias bashrc='nano ~/.bashrc && source ~/.bashrc'
+alias hosts='sudo nano /etc/hosts'
 
 #==============================================================================
 # SAFETY ALIASES
