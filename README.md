@@ -6,7 +6,7 @@ Enhanced `.bashrc` configuration for Ubuntu with useful aliases, auto-installati
 
 ```bash
 cd ~
-git clone https://github.com/yourusername/bashrc.git
+git clone https://github.com/bryce-crichfield/bashrc.git
 cd bashrc
 chmod +x install.sh
 ./install.sh
